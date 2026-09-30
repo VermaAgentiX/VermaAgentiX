@@ -39,7 +39,7 @@ class AbhishekVerma:
         self.fun_fact  = "I mix ideas into coffee & turn into secure, responsive, AI-driven products ☕➜🤖"
 
     def say_hi(self):
-        print("Let's build something intelligent together!")
+        print("Let's build something useful together!")
 
 me = AbhishekVerma()
 me.say_hi()
