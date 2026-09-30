@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VermaAgentiX&label=Profile%20Views&color=00f58a&style=for-the-badge" alt="profile views" />
+
   <img src="https://img.shields.io/github/followers/VermaAgentiX?label=Followers&style=for-the-badge&logo=github&color=0f2027&labelColor=00f58a&logoColor=black" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-00f58a?style=for-the-badge&logo=briefcase&logoColor=black" alt="open to work" />
 </p>
