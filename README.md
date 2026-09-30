@@ -115,8 +115,9 @@ me.say_hi()
 
 <!-- Replace the repo names below with your real pinned projects -->
 <p align="center">
-  <a href="https://github.com/VermaAgentiX/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" alt="project 1" />
+  <a href="https://github.com/VermaAgentiX/Label-Blend-Studio-Image-Segmentation-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=Label-Blend-Studio-Image-Segmentation-Tool
+&theme=tokyonight&hide_border=true" alt="project 1" />
   </a>
   <a href="https://github.com/VermaAgentiX/YOUR-REPO-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" alt="project 2" />
