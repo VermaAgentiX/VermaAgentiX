@@ -53,6 +53,21 @@ me.say_hi()
 
 ---
 
+<p align="center">
+  <a href="https://github.com/VermaAgentiX?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-111827?style=for-the-badge&logo=github&logoColor=00F5A0" alt="Explore all repositories" />
+  </a>
+</p>
+
+| Project                                                                                                              | What it does                                                                                                                                                | Stack                                              |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| 🧠 **[LabelBlend Studio](https://github.com/VermaAgentiX/Label-Blend-Studio-Image-Segmentation-Tool)**               | AI-assisted synthetic dataset generation, image augmentation, automatic YOLO annotations, bounding-box & segmentation workflows                             | `Python` `PySide6` `SAM 2` `OpenCV` `Pillow`       |
+| 🤖 **[Octopus v1.7 — Agentic AI Browser](https://github.com/VermaAgentiX/Octopus-v1.7-Agentic-AI-Internet-Browser)** | Agentic AI browser that performs multi-source information gathering, reasoning, and tool-based workflows through a modern native interface                  | `Python` `LangChain` `Qt` `Qwen` `Gemini API`      |
+| 🧩 **[Keras Designer](https://github.com/VermaAgentiX/Keras-Designer-A-Neural-Network-Designer-Editor)**             | Visual neural-network designer and code editor for building architectures, validating layers, visualizing connections, and generating Keras/TensorFlow code | `Python` `PySide6` `Keras` `TensorFlow` `Qt`       |
+| ✨ **[VisionX Denoiser](https://github.com/VermaAgentiX/VisionX-Desoiser-Face-Restoration-and-Image-Enhancer-Tool)**  | Local AI image and video restoration application for facial enhancement, denoising, and upscaling with GPU acceleration                                     | `Python` `PySide6` `GFPGAN` `Real-ESRGAN` `OpenCV` |
+
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -78,12 +93,19 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VermaAgentiX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermaAgentiX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=VermaAgentiX&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="GitHub statistics" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VermaAgentiX&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img height="190" src="https://streak-stats.demolab.com/?user=VermaAgentiX&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true" alt="GitHub contribution streak" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VermaAgentiX&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
@@ -93,11 +115,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=VermaAgentiX&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VermaAgentiX&theme=tokyo-night&hide_border=true&area=true&color=00f58a&line=00f58a&point=ffffff" alt="activity graph" />
-</p>
 
 ### 🐍 Contribution Snake
 
@@ -113,33 +130,58 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<!-- Replace the repo names below with your real pinned projects -->
-<p align="center">
-  <a href="https://github.com/VermaAgentiX/Label-Blend-Studio-Image-Segmentation-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=Label-Blend-Studio-Image-Segmentation-Tool
-&theme=tokyonight&hide_border=true" alt="project 1" />
-  </a>
-  <a href="https://github.com/VermaAgentiX/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" alt="project 2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/VermaAgentiX/YOUR-REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true" alt="project 3" />
-  </a>
-  <a href="https://github.com/VermaAgentiX/YOUR-REPO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VermaAgentiX&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true" alt="project 4" />
-  </a>
-</p>
+01 · LabelBlend Studio
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🤖 **Agentic AI Orchestrator** | Multi-agent workflow system with tool use and memory | `Python` `LangGraph` `LangChain` |
-| 🖥️ **Enterprise Desktop Suite** | Secure native desktop tools for business workflows | `PySide/Qt` `Python` `SQLite` |
-| 🧊 **3D Synthetic Data Generator** | Generates labeled synthetic datasets for vision models | `Blender` `Python` `OpenCV` |
-| 🌐 **Full Stack Web App** | Responsive, authenticated web platform | `Django` `React` `Tailwind` `MySQL` |
+<a href="https://github.com/VermaAgentiX/Label-Blend-Studio-Image-Segmentation-Tool">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=VermaAgentiX&repo=Label-Blend-Studio-Image-Segmentation-Tool&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="LabelBlend Studio repository card" />
+</a>
 
-> ✏️ *Edit this table with your real projects and links.*
+AI-assisted desktop tooling for synthetic image generation, augmentation, dataset creation, and computer-vision annotation. The project combines visual workflows with YOLO-format annotation generation and SAM 2-powered segmentation capabilities.
+
+Product: LabelBlend Pro — Microsoft Store · Documentation · Studio site
+
+02 · Octopus v1.7 — Agentic AI Browser
+
+<a href="https://github.com/VermaAgentiX/Octopus-v1.7-Agentic-AI-Internet-Browser">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=VermaAgentiX&repo=Octopus-v1.7-Agentic-AI-Internet-Browser&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Octopus repository card" />
+</a>
+
+An agentic AI internet browser built around LangChain + Qt, designed to gather information from multiple sources, reason over user requests, and use tools with local/online model integrations.
+
+Core: Python · Qt · LangChain · Qwen · Gemini
+
+03 · Keras Designer
+
+<a href="https://github.com/VermaAgentiX/Keras-Designer-A-Neural-Network-Designer-Editor">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=VermaAgentiX&repo=Keras-Designer-A-Neural-Network-Designer-Editor&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Keras Designer repository card" />
+</a>
+
+A visual neural-network designer and code editor for creating architectures on a canvas, switching between Sequential and Functional API concepts, validating parameters, visualizing connections, and generating Keras/TensorFlow code.
+
+Core: Python · Qt · Keras · TensorFlow · Visual model design
+
+04 · VisionX Denoiser & Face Restoration
+
+<a href="https://github.com/VermaAgentiX/VisionX-Desoiser-Face-Restoration-and-Image-Enhancer-Tool">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=VermaAgentiX&repo=VisionX-Desoiser-Face-Restoration-and-Image-Enhancer-Tool&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="VisionX repository card" />
+</a>
+
+A local AI image/video restoration tool using GFPGAN and Real-ESRGAN with Qt-based interaction, side-by-side comparisons, zoom/pan workflows, background processing, and GPU-accelerated enhancement.
+
+Core: Python · PySide6 · Real-ESRGAN · GFPGAN · OpenCV · FFmpeg
+
+05 · Transformer Trading Automation
+
+<a href="https://github.com/VermaAgentiX/Stock-Trading-Automation-App-Using-Transformer-Model">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=VermaAgentiX&repo=Stock-Trading-Automation-App-Using-Transformer-Model&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Transformer trading repository card" />
+</a>
+
+A desktop research/automation application combining Transformer-based time-series forecasting, interactive charts, alerts, trade monitoring, and model-driven decision support.
+
+Core: Python · TensorFlow · Keras · PyQt6 · Lightweight Charts
+
+
+
 
 ---
 
@@ -174,16 +216,36 @@ me.say_hi()
 
 ---
 
-## 🎯 Currently Exploring
+🧪 Currently Exploring
 
-| Area | Focus |
-|:--|:--|
-| 🧠 **Generative AI & Deep Learning** | LLMs, fine-tuning, RAG pipelines |
-| 🎨 **Agentic AI Orchestration** | Multi-agent system design with LangGraph |
-| 🖥️ **Enterprise Desktop Tools** | Qt / Python / LangChain-powered apps |
-| 🌐 **Product Design & BI** | Turning data into decisions |
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Exploring / Building</th>
+  </tr>
+  <tr>
+    <td>🧠 Agentic AI</td>
+    <td>Multi-agent orchestration, tool calling, memory, local LLM workflows</td>
+  </tr>
+  <tr>
+    <td>🎨 Computer Vision</td>
+    <td>Segmentation, synthetic data generation, restoration, vision pipelines</td>
+  </tr>
+  <tr>
+    <td>🖥️ AI Desktop</td>
+    <td>Qt/PySide6 applications, responsive workers, GPU-aware UX</td>
+  </tr>
+  <tr>
+    <td>🌐 Product Engineering</td>
+    <td>Django/React applications, APIs, data workflows, user-focused tooling</td>
+  </tr>
+</table>
 
 ---
+🎓 Education
+
+Bachelor of Technology — Computer Science & Engineering (AI & ML)
+Oriental Institute of Science & Technology (OIST), Bhopal · RGPV · 2026
 
 ## 🤝 Let's Connect
 
