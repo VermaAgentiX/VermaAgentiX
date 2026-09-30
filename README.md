@@ -36,7 +36,7 @@ class AbhishekVerma:
         self.focus     = ["Agentic AI", "LLM Apps", "Enterprise Desktop Tools", "3D Synthetic Data"]
         self.languages = ["Python", "JavaScript", "SQL"]
         self.currently_learning = ["LangGraph", "Multi-Agent Orchestration", "Deep Learning"]
-        self.fun_fact  = "I turn coffee into secure, responsive, AI-driven apps ☕➜🤖"
+        self.fun_fact  = "I mix ideas into coffee & turn into secure, responsive, AI-driven products ☕➜🤖"
 
     def say_hi(self):
         print("Let's build something intelligent together!")
