@@ -32,7 +32,7 @@
 class AbhishekVerma:
     def __init__(self):
         self.role      = "CS Engineer & Full Stack / AI App Developer"
-        self.location  = "Indore, India 🇮🇳"
+        self.location  = "Bhopal, India 🇮🇳"
         self.focus     = ["Agentic AI", "LLM Apps", "Enterprise Desktop Tools", "3D Synthetic Data"]
         self.languages = ["Python", "JavaScript", "SQL"]
         self.currently_learning = ["LangGraph", "Multi-Agent Orchestration", "Deep Learning"]
